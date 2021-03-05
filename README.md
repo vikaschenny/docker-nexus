@@ -9,7 +9,12 @@ For Nexus Repository Manager 3, please refer to https://github.com/sonatype/dock
   * [Build Args](#build-args)
 * [Getting Help](#getting-help)
 
-To build:
+
+
+
+
+
+To build docker image:
 ```
 # docker build --rm --tag sonatype/nexus oss/
 # docker build --rm --tag sonatype/nexus-pro pro/
